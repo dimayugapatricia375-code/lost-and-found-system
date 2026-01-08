@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+form input, form textarea, form button {
+  display: block;
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%;
+  max-width: 400px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  background: #fff;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
