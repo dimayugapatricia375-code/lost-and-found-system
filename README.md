@@ -1,19 +1,21 @@
-# Lost and Found Management System
+# Task / To-Do List System
 
-A web-based Lost and Found Management System built using HTML, CSS, JavaScript, PHP, and MySQL.
+A simple web-based Task / To-Do List System built using HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## Features
-- User registration
-- Password length checker (JavaScript)
-- Report lost and found items
-- CRUD operations
+- Add tasks
+- View all tasks
+- Update tasks (mark as done / edit)
+- Delete tasks
 - MySQL database integration
+- JavaScript interactive feature (live status update)
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - PHP
+- MySQL
 
 ## How to Run
 1. Import `database.sql` into phpMyAdmin.
